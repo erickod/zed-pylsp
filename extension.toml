@@ -8,4 +8,4 @@ repository = "https://github.com/erickod/zed-pylsp"
 
 [language_servers.pylsp]
 name = "PyLSP"
-language = "python"
+language = "Python"
