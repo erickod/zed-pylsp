@@ -1,0 +1,11 @@
+id = "pylsp"
+name = "PyLSP"
+description = "PyLSP"
+version = "0.0.1"
+schema_version = 1
+authors = ["Erick Duarte <erickod@gmail.com >"]
+repository = "https://github.com/erickod/zed-pylsp"
+
+[language_servers.pylsp]
+name = "PyLSP"
+language = "python"
