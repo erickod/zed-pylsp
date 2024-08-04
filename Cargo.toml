@@ -1,13 +1,13 @@
 [package]
 name = "zed-pylsp"
 version = "0.0.1"
-authors = ["Jan van den Berg <koozz@linux.com>"]
+authors = ["Erick Duarte <erickod@gmail.com.com>"]
 license = "Apache-2.0"
-description = "Zed extension adding Vale spell checking and style checking."
+description = "Zed extension adding PyLSP support"
 keywords = ["zed", "vale"]
 categories = ["development-tools"]
-homepage = "https://github.com/koozz/zed-vale"
-repository = "https://github.com/koozz/zed-vale"
+homepage = "https://github.com/erickod/zed-pylsp"
+repository = "https://github.com/erickod/zed-pylsp"
 readme = "README.md"
 edition = "2021"
 publish = false
