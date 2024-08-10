@@ -34,6 +34,17 @@ If the respective dependencies are found, the following optional providers will 
   pylint for code linting (disabled by default)
 ```
 
+## Add as a language server
+```
+{
+  "languages": {
+    "Python": {
+      "language_servers": ["pyright", "pylsp"]
+    }
+  }
+}
+```
+
 ## Contributing
 
 I ❤️ Pull Requests, but I do like well documented summaries and commit messages.
